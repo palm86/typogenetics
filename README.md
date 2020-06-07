@@ -1,2 +1,21 @@
-# typogenetics
-Hofstadter's typographical genetics in Elixir
+# Typogenetics
+
+**TODO: Add description**
+
+## Installation
+
+If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+by adding `typogenetics` to your list of dependencies in `mix.exs`:
+
+```elixir
+def deps do
+  [
+    {:typogenetics, "~> 0.1.0"}
+  ]
+end
+```
+
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+be found at [https://hexdocs.pm/typogenetics](https://hexdocs.pm/typogenetics).
+
